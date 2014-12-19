@@ -1,0 +1,12 @@
+dependencies:
+- rpm:
+  - java-devel
+- rpm:
+  - maven
+devassistant_version: 0.9.3
+original_kwargs:
+  github: !!python/unicode 'erilis'
+  name: !!python/unicode '/home/erilis/ejemplo'
+project_type:
+- java
+- jsf
